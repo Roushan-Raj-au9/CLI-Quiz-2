@@ -1,0 +1,23 @@
+{
+  "name": "cli-quiz-2",
+  "version": "1.0.0",
+  "description": "It's about IRON MAN journey.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roushan-Raj-au9/CLI-Quiz-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roushan-Raj-au9/CLI-Quiz-2/issues"
+  },
+  "homepage": "https://github.com/Roushan-Raj-au9/CLI-Quiz-2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
